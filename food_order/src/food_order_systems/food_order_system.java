@@ -2025,3 +2025,4 @@ private JFrame frame;
     private javax.swing.JTextField jtxtTotal;
     // End of variables declaration//GEN-END:variables
 }
+//add new line
